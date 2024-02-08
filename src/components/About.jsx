@@ -102,10 +102,16 @@ const About = () => {
                 </h1>
                 <h1>Work From Anywhere</h1>
                 <p>
-                  Hi there! I am Waleed Ishfaq, a Web Developer passionate about
+                  Hi there! I am Roni Ilves, a Web Developer passionate about
                   crafting seamless online experiences. With expertise in HTML,
                   CSS, JavaScript, and various frameworks, I bring ideas to life
-                  on the web. Let's collaborate to create user-friendly,
+                  on the web.
+                  I firmly believe that the best way to accelerate my own growth 
+                  is by immersing myself in a challenging environment.
+                  As I'm dedicated to expanding my professional horizons, 
+                  I'm initially open to providing my expertise without financial 
+                  compensation, focusing on valuable experience and mutual growth.
+                  Let's collaborate to create user-friendly,
                   visually stunning websites that leave a lasting impact.
                 </p>
                 <p>
@@ -115,17 +121,17 @@ const About = () => {
                 <div className="row gx-0">
                   <div className="col-md-7">
                     <h5>NAME :</h5>
-                    <p>Waleed Ishfaq</p>
+                    <p>Roni Ilves</p>
                     <h5>EMAIL :</h5>
-                    <p>hi@waleedcodes.com</p>
-                    <h5>PHONE NO :</h5>
-                    <p>123456789</p>
+                    <p>roniilves624@gmail.com</p>
+                    <h5>ADDRESS :</h5>
+                    <p>86 Nurme Street</p>
                   </div>
                   <div className="col-md-5">
                     <h5>AGE :</h5>
-                    <p>18</p>
+                    <p>27</p>
                     <h5>EDUCATION :</h5>
-                    <p>D.COM</p>
+                    <p>Tallinn University</p>
                     <h5>WEB DEVELOPER :</h5>
                     <p>Available</p>
                   </div>

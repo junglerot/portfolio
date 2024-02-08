@@ -8,15 +8,15 @@ const Navbar = () => {
         <div className="container navbar-col gx-0">
           {/* <a className="navbar-brand" href="#">
             <h2>
-              waleed <span>codes</span>
+              roniilves <span>codes</span>
             </h2>
           </a> */}
           <NavLink className="navbar-brand" to="/">
             {/* <h2>
-              waleed <span>codes</span>
+              roniilves <span>codes</span>
             </h2> */}
-            <h2>Waleed</h2>
-            <h2>Waleed</h2>
+            <h2>Roniilves</h2>
+            <h2>Roniilves</h2>
           </NavLink>
           <button
             className="navbar-toggler"

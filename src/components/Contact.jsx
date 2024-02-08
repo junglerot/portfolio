@@ -1,5 +1,6 @@
 import icon1 from "../assets/icon1.png";
 import icon2 from "../assets/icon2.png";
+import map from "../assets/Kookla.png"
 
 const Contact = () => {
   return (
@@ -104,14 +105,14 @@ const Contact = () => {
                   <div className="contact_fm_1" data-aos="fade-left">
                     <i className="fa-solid fa-phone"></i>
                     <h4>Phone No</h4>
-                    <h6>+88 01682 825 123</h6>
+                    <h6>+3725216765</h6>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="contact_fm_1" data-aos="fade-left">
                     <i className="fa-solid fa-envelope"></i>
                     <h4>Email</h4>
-                    <h6>hi@waleedcodes.com</h6>
+                    <h6>roniilves624@gmail.com</h6>
                   </div>
                 </div>
               </div>
@@ -121,13 +122,8 @@ const Contact = () => {
                   <div className="contact_fm_1">
                     <i className="fa-solid fa-location-dot"></i>
                     <h4>Address</h4>
-                    <h6>Abbottabad, Pakistan</h6>
-                    <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105627.97328102255!2d73.08828448657466!3d34.17513477655343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38de3111557ac517%3A0x6e59a635b12e952c!2sAbbottabad%2C%20Khyber%20Pakhtunkhwa%2C%20Pakistan!5e0!3m2!1sen!2s!4v1688829299558!5m2!1sen!2s"
-                      allowFullScreen=""
-                      loading="lazy"
-                      referrerPolicy="no-referrer-when-downgrade"
-                    ></iframe>
+                    <h6>Kookla, Estonia</h6>
+                   <img src={map}/>
                   </div>
                 </div>
               </div>

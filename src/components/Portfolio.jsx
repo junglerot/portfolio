@@ -116,7 +116,7 @@ const Portfolio = () => {
                       <h4>Furniture Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-FurnitureTemp/"
+                        href="https://roniilvescodes.github.io/B-FurnitureTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -136,7 +136,7 @@ const Portfolio = () => {
                       <h4>Maples Resort Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-TravelTemp/"
+                        href="https://roniilvescodes.github.io/B-TravelTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -156,7 +156,7 @@ const Portfolio = () => {
                       <h4>UTOPIA Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-UtopiaTemp/"
+                        href="https://roniilvescodes.github.io/B-UtopiaTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -178,7 +178,7 @@ const Portfolio = () => {
                       <h4>Alpha Hospital Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-HospitalTemp/"
+                        href="https://roniilvescodes.github.io/B-HospitalTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -198,7 +198,7 @@ const Portfolio = () => {
                       <h4>Ezewev Agency Tempalte</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-EvewezTemp/"
+                        href="https://roniilvescodes.github.io/B-EvewezTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -218,7 +218,7 @@ const Portfolio = () => {
                       <h4>Tech Company Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-WebTemp/"
+                        href="https://roniilvescodes.github.io/B-WebTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -240,7 +240,7 @@ const Portfolio = () => {
                       <h4>Sviss Tours Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-TouristsTemp/"
+                        href="https://roniilvescodes.github.io/B-TouristsTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -260,7 +260,7 @@ const Portfolio = () => {
                       <h4>Electricity Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-ElectricTemp/"
+                        href="https://roniilvescodes.github.io/B-ElectricTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -280,7 +280,7 @@ const Portfolio = () => {
                       <h4>Property Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-HouseTemp/"
+                        href="https://roniilvescodes.github.io/B-HouseTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -302,7 +302,7 @@ const Portfolio = () => {
                       <h4>UniLend App Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-AppTemp/"
+                        href="https://roniilvescodes.github.io/B-AppTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -322,7 +322,7 @@ const Portfolio = () => {
                       <h4>Agro Farm Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://waleedcodes.github.io/B-FurnitureTemp/"
+                        href="https://roniilvescodes.github.io/B-FurnitureTemp/"
                         target="_blank"
                         rel="noreferrer"
                       >
