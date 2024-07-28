@@ -1,24 +1,63 @@
-# Logs
-logs
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
 *.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# npm package logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
 
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Miscellaneous
+*.sublime-project
+*.sublime-workspace
+
+# Coverage directory used by testing tools
+coverage/
+
+# dotenv environment variables file
+.env
+
+# next.js build output
+.next/
+out/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# lockfiles
+package-lock.json
+yarn.lock
+
+# Optional npm cache directory
+.npm/
+
+# Optional yarn cache directory
+.yarn/cache/
+
+# Optional dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
