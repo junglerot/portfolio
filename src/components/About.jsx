@@ -7,14 +7,14 @@ import img5 from "../assets/i3.png";
 // import img6 from "../assets/about-main.png";
 import img6 from "../assets/men2.png";
 
-const About = () => {
+const About = () => { 
   // const card = document.querySelector(".sec1_col1");
   // const motionMatchMedia = window.matchMedia("(prefers-reduced-motion)");
   // const THRESHOLD = 2;
   // function handleHover(e) {
   //   const { clientX, clientY, currentTarget } = e;
   //   const { clientWidth, clientHeight, offsetLeft, offsetTop } = currentTarget;
-
+  
   //   const horizontal = (clientX - offsetLeft) / clientWidth;
   //   const vertical = (clientY - offsetTop) / clientHeight;
   //   const rotateX = (THRESHOLD / 1 - horizontal * THRESHOLD).toFixed(1);

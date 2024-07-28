@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="footer_1">
             <a className="navbar-brand my-3" href="#">
               <h2>Kongleung</h2>
-              <h2>Kongleung</h2>
+              <h2>Kongleung</h2>  
             </a>
             <p className="mt-4">
               Let's build something incredible together. Reach out via email or
@@ -16,7 +16,7 @@ const Footer = () => {
             </p>
             <div className="ft_icon">
               <a
-                href="https://www.facebook.com/Kongleungcodes"
+                href="https://www.facebook.com/Kongleungcodes"  
                 target="_blank"
                 rel="noreferrer"
               >
