@@ -13,14 +13,14 @@ const Navbar = () => {
           </a> */}
           <NavLink className="navbar-brand" to="/">
             {/* <h2>
-              Kongleung <span>codes</span>
+              Kongleung <span>codes</span>  
             </h2> */}
-            <h2>Kongleung</h2>
-            <h2>Kongleung</h2>
-          </NavLink>
-          <button
+            <h2>Kongleung</h2>  
+            <h2>Kongleung</h2>  
+          </NavLink>  
+          <button 
             className="navbar-toggler"
-            type="button"
+            type="button"     
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent"
