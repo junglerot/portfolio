@@ -1,6 +1,6 @@
 import icon1 from "../assets/icon1.png";
 import icon2 from "../assets/icon2.png";
-import map from "../assets/Kookla.png"
+import map from "../assets/Tai Po Tsai Village.png";
 
 const Contact = () => {
   return (
@@ -105,14 +105,14 @@ const Contact = () => {
                   <div className="contact_fm_1" data-aos="fade-left">
                     <i className="fa-solid fa-phone"></i>
                     <h4>Phone No</h4>
-                    <h6>+3725216765</h6>
+                    <h6>+9 7320 6389</h6>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="contact_fm_1" data-aos="fade-left">
                     <i className="fa-solid fa-envelope"></i>
                     <h4>Email</h4>
-                    <h6>roniilves624@gmail.com</h6>
+                    <h6>Kongleung948@gmail.com</h6>
                   </div>
                 </div>
               </div>
@@ -121,12 +121,12 @@ const Contact = () => {
                 <div className="col-lg-12">
                   <div className="contact_fm_1">
                     <i className="fa-solid fa-location-dot"></i>
-                    <h4>Address</h4>
-                    <h6>Kookla, Estonia</h6>
-                   <img src={map}/>
+                    <h4>Address</h4>  
+                    <h6>Tai Po Tsai Village, Hong Kong</h6>
+                    <img src={map} className="map" />
                   </div>
-                </div>
-              </div>
+                </div>  
+              </div>  
               {/* ************************* */}
             </div>
 

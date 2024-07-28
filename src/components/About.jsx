@@ -7,14 +7,14 @@ import img5 from "../assets/i3.png";
 // import img6 from "../assets/about-main.png";
 import img6 from "../assets/men2.png";
 
-const About = () => {
+const About = () => { 
   // const card = document.querySelector(".sec1_col1");
   // const motionMatchMedia = window.matchMedia("(prefers-reduced-motion)");
   // const THRESHOLD = 2;
   // function handleHover(e) {
   //   const { clientX, clientY, currentTarget } = e;
   //   const { clientWidth, clientHeight, offsetLeft, offsetTop } = currentTarget;
-
+  
   //   const horizontal = (clientX - offsetLeft) / clientWidth;
   //   const vertical = (clientY - offsetTop) / clientHeight;
   //   const rotateX = (THRESHOLD / 1 - horizontal * THRESHOLD).toFixed(1);
@@ -102,7 +102,7 @@ const About = () => {
                 </h1>
                 <h1>Work From Anywhere</h1>
                 <p>
-                  Hi there! I am Roni Ilves, a Web Developer passionate about
+                  Hi there! I am Kong Leung, a Web Developer passionate about
                   crafting seamless online experiences. With expertise in HTML,
                   CSS, JavaScript, and various frameworks, I bring ideas to life
                   on the web.
@@ -121,17 +121,17 @@ const About = () => {
                 <div className="row gx-0">
                   <div className="col-md-7">
                     <h5>NAME :</h5>
-                    <p>Roni Ilves</p>
+                    <p>Kong Leung</p>
                     <h5>EMAIL :</h5>
-                    <p>roniilves624@gmail.com</p>
+                    <p>Kongleung948@gmail.com</p>
                     <h5>ADDRESS :</h5>
-                    <p>86 Nurme Street</p>
+                    <p>Tai Po Tsai Village</p>
                   </div>
                   <div className="col-md-5">
                     <h5>AGE :</h5>
                     <p>27</p>
                     <h5>EDUCATION :</h5>
-                    <p>Tallinn University</p>
+                    <p>Hong Kong University of Science and Technology</p>
                     <h5>WEB DEVELOPER :</h5>
                     <p>Available</p>
                   </div>
