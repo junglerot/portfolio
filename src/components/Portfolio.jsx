@@ -116,7 +116,7 @@ const Portfolio = () => {
                       <h4>Furniture Template</h4>
                       <p>Completed With HTML | CSS and Bootstrap 5 </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-FurnitureTemp/"
+                        href="http://ohmiya-holdings.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
