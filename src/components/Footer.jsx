@@ -7,8 +7,8 @@ const Footer = () => {
         <div className="footer_main container">
           <div className="footer_1">
             <a className="navbar-brand my-3" href="#">
-              <h2>Roniilves</h2>
-              <h2>Roniilves</h2>
+              <h2>Kongleung</h2>
+              <h2>Kongleung</h2>
             </a>
             <p className="mt-4">
               Let's build something incredible together. Reach out via email or
@@ -16,35 +16,35 @@ const Footer = () => {
             </p>
             <div className="ft_icon">
               <a
-                href="https://www.facebook.com/roniilvescodes"
+                href="https://www.facebook.com/Kongleungcodes"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fa-brands fa-facebook"></i>
               </a>
               <a
-                href="https://www.youtube.com/@roniilvescodes"
+                href="https://www.youtube.com/@Kongleungcodes"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fa-brands fa-youtube"></i>
               </a>
               <a
-                href="https://www.instagram.com/roniilvescodes/"
+                href="https://www.instagram.com/Kongleungcodes/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fa-brands fa-instagram"></i>
               </a>
               <a
-                href="https://twitter.com/roniilvescodes"
+                href="https://twitter.com/Kongleungcodes"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fa-brands fa-twitter"></i>
               </a>
               <a
-                href="https://www.linkedin.com/in/roniilvescodes/"
+                href="https://www.linkedin.com/in/Kongleungcodes/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -86,8 +86,8 @@ const Footer = () => {
       <div className="footer_end">
         <p>
           © 2024{" "}
-          <a href="http://roniilvescodes.com/" target="_blank" rel="noreferrer">
-            roniilvescodes.com
+          <a href="http://Kongleungcodes.com/" target="_blank" rel="noreferrer">
+            Kongleungcodes.com
           </a>{" "}
           | All rights reserved.
         </p>
