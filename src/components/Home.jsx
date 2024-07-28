@@ -42,15 +42,15 @@ const Home = () => {
                 <img src={img2} className="img-fluid" alt="heroimage" />
                 <h3>Hello, My Name is</h3>
                 <h2>
-                  Roni <span>Ilves</span>{" "}
+                  Kong<span>Leung</span>{" "}
                 </h2>
                 <h1>
                   I am a{" "}
                   <ReactTyped
                     strings={[
-                      "MERN Stack Developer",
+                      "Full Stack Developer",
                       "Software Developer",
-                      "Data Analyst",
+                      "Blockchain Developer",
                       "Volunteer"
                     ]}
                     typeSpeed={100}

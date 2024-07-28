@@ -39,6 +39,7 @@
   "engines": {
     "node": ">=14.0.0"
   },
+
   "keywords": [
     "portfolio",
     "react",
