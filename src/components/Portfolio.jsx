@@ -113,8 +113,8 @@ const Portfolio = () => {
                   <img src={img1} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Furniture Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4> Address the aging society </h4>
+                      <p>Completed With HTML | Bootstrap 5 and React </p>
                       <a
                         href="http://ohmiya-holdings.com/"
                         target="_blank"
@@ -133,10 +133,10 @@ const Portfolio = () => {
                   <img src={img2} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Maples Resort Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>Comprehensive and convenient online shopping </h4>
+                      <p>Completed With React, JavaScript and AWS </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-TravelTemp/"
+                        href="https://www.ozon.ru/?__rr=1&abt_att=1"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -153,8 +153,8 @@ const Portfolio = () => {
                   <img src={img3} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>UTOPIA Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>Distance learning opportunities</h4>
+                      <p>Completed With React and Django </p>
                       <a
                         href="https://Kongleungcodes.github.io/B-UtopiaTemp/"
                         target="_blank"
@@ -175,10 +175,10 @@ const Portfolio = () => {
                   <img src={img4} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Alpha Hospital Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>Innovative communication services</h4>
+                      <p>Completed With HTML | CSS and Wordpress </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-HospitalTemp/"
+                        href="https://www.all-connect.jp/recruit/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -195,10 +195,10 @@ const Portfolio = () => {
                   <img src={img5} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Ezewev Agency Tempalte</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>providing authentic Japanese products and cultural </h4>
+                      <p>Completed With HTML | CSS and Shopify  </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-EvewezTemp/"
+                        href="https://www.direct-nagomi.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -215,10 +215,10 @@ const Portfolio = () => {
                   <img src={img6} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Tech Company Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>Decentralized exchange (DEX) platform</h4>
+                      <p>Completed With Next.js and Ox protocol </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-WebTemp/"
+                        href="https://0x-auction-beta.vercel.app/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -237,10 +237,10 @@ const Portfolio = () => {
                   <img src={img7} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Sviss Tours Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4> A range of advanced dental treatments</h4>
+                      <p>Completed With HTML | CSS and WordPress</p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-TouristsTemp/"
+                        href="https://www.absboston.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -257,10 +257,10 @@ const Portfolio = () => {
                   <img src={img8} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Electricity Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>decentralized and transparent lending and borrowing platform</h4>
+                      <p>Completed With Typescript, Solidity and Web3 </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-ElectricTemp/"
+                        href="https://app.wepiggy.com/markets"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -277,10 +277,10 @@ const Portfolio = () => {
                   <img src={img9} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Property Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4> Health benefits, Recipes, and Expert advice</h4>
+                      <p>Completed With React and Django </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-HouseTemp/"
+                        href="https://ketone.com/pages/main"
                         target="_blank"
                         rel="noreferrer"
                       >
