@@ -121,12 +121,12 @@ const Contact = () => {
                 <div className="col-lg-12">
                   <div className="contact_fm_1">
                     <i className="fa-solid fa-location-dot"></i>
-                    <h4>Address</h4>
+                    <h4>Address</h4>  
                     <h6>Tai Po Tsai Village, Hong Kong</h6>
                     <img src={map} className="map" />
                   </div>
-                </div>
-              </div>
+                </div>  
+              </div>  
               {/* ************************* */}
             </div>
 

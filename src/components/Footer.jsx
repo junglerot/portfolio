@@ -54,14 +54,14 @@ const Footer = () => {
           </div>
           <div className="footer_2">
             <h4 className="pb-2">Quick Links</h4>
-            <ul>
+            <ul>  
               <li>
                 <a href="">Home</a>
               </li>
               <li>
                 <a href="">About Us</a>
-              </li>
-              <li>
+              </li> 
+              <li>  
                 <a href="">Features</a>
               </li>
               <li>
