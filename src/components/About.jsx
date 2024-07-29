@@ -102,17 +102,8 @@ const About = () => {
                 </h1>
                 <h1>Work From Anywhere</h1>
                 <p>
-                  Hi there! I am Kong Leung, a Web Developer passionate about
-                  crafting seamless online experiences. With expertise in HTML,
-                  CSS, JavaScript, and various frameworks, I bring ideas to life
-                  on the web.
-                  I firmly believe that the best way to accelerate my own growth 
-                  is by immersing myself in a challenging environment.
-                  As I'm dedicated to expanding my professional horizons, 
-                  I'm initially open to providing my expertise without financial 
-                  compensation, focusing on valuable experience and mutual growth.
-                  Let's collaborate to create user-friendly,
-                  visually stunning websites that leave a lasting impact.
+                Hi there! I am Kong Leung, a Web Developer passionate about crafting seamless online experiences. With expertise in HTML, CSS, JavaScript, TypeScript, WordPress and  various other frameworks such as React, Next, Django, I bring ideas to life on the web. I have also built an NFT marketplace leveraging Web3 and Solidity in recently.
+                I firmly believe that the best way to accelerate my own growth is by immersing myself in a challenging environment.  Let's collaborate to create user-friendly, visually stunning websites that leave a lasting impact.
                 </p>
                 <p>
                   Feel free to adapt and use this as needed for your portfolio

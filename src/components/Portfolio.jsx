@@ -9,10 +9,10 @@ import img6 from "../assets/portfolio/6.png";
 import img7 from "../assets/portfolio/7.png";
 import img8 from "../assets/portfolio/8.png";
 import img9 from "../assets/portfolio/9.png";
-import img10 from "../assets/portfolio/10.png";
-import img11 from "../assets/portfolio/11.png";
-import img12 from "../assets/portfolio/12.jpg";
-import img13 from "../assets/portfolio/13.jpg";
+// import img10 from "../assets/portfolio/10.png";
+// import img11 from "../assets/portfolio/11.png";
+import img12 from "../assets/portfolio/12.png";
+import img13 from "../assets/portfolio/13.png";
 import img14 from "../assets/portfolio/14.png";
 import icon1 from "../assets/icon1.png";
 import icon2 from "../assets/icon2.png";
@@ -51,10 +51,10 @@ const Portfolio = () => {
                   <img src={img12} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>GYM & Fitness</h4>
-                      <p>GYM & Fitness Website With React JS</p>
+                      <h4>Digital and Creative Agency</h4>
+                      <p>Completed with With React JS</p>
                       <a
-                        href="https://react-gym-fitness-website.vercel.app/"
+                        href="https://draft.co.jp/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -71,10 +71,10 @@ const Portfolio = () => {
                   <img src={img13} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Food Deilvery</h4>
-                      <p> Resturant Food Deilvery Website With React JS</p>
+                      <h4>Community engagement and urban development</h4>
+                      <p> Completed With Next JS</p>
                       <a
-                        href="https://react-food-delivery-website-blue.vercel.app/"
+                        href="https://www.ideallynewrochelle.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -91,8 +91,8 @@ const Portfolio = () => {
                   <img src={img14} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Pet Food Delivery</h4>
-                      <p>Pet Food Delivery Website With React JS</p>
+                      <h4>Offer a variety of charter bus service</h4>
+                      <p>Completed with Wordpress and php</p>
                       <a
                         href="https://best-pet-food-website.vercel.app/"
                         target="_blank"
@@ -195,7 +195,7 @@ const Portfolio = () => {
                   <img src={img5} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>providing authentic Japanese products and cultural </h4>
+                      <h4>Provide authentic Japanese products and cultural </h4>
                       <p>Completed With HTML | CSS and Shopify  </p>
                       <a
                         href="https://www.direct-nagomi.com/"
@@ -215,7 +215,7 @@ const Portfolio = () => {
                   <img src={img6} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Decentralized exchange (DEX) platform</h4>
+                      <h4>Decentralized exchange platform(DEX)</h4>
                       <p>Completed With Next.js and Ox protocol </p>
                       <a
                         href="https://0x-auction-beta.vercel.app/"
@@ -257,7 +257,7 @@ const Portfolio = () => {
                   <img src={img8} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>decentralized and transparent lending and borrowing platform</h4>
+                      <h4>Decentralized and transparent lending and borrowing platform</h4>
                       <p>Completed With Typescript, Solidity and Web3 </p>
                       <a
                         href="https://app.wepiggy.com/markets"
@@ -293,7 +293,7 @@ const Portfolio = () => {
                 </div>
               </div>
             </div>
-            <div className="row gx-0" id="portfolio_col3">
+            {/* <div className="row gx-0" id="portfolio_col3">
               <div className="col-md-6 col-sm-6 col-12 col-lg-4 my-4">
                 <div className="s4_1">
                   <img src={img10} alt="" className="img-fluid" />
@@ -334,7 +334,7 @@ const Portfolio = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="text-center pt-4 d-flex justify-content-center">
             <button

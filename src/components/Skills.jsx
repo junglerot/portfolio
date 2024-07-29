@@ -7,8 +7,8 @@ import "react-circular-progressbar/dist/styles.css";
 const Skills = () => {
   const ab = 100;
   const cd = 95;
-  const ef = 80;
-  const gh = 85;
+  const ef = 90;
+  const gh = 80;
   const ij = 70;
   return (  
     <>
@@ -21,11 +21,11 @@ const Skills = () => {
                 <h1>I am great in what I</h1>
                 <h1>do and I am loving it</h1>  
                 <p> 
-                  My skill set includes proficiency in HTML, CSS, JavaScript,
-                  and popular frameworks like React. I have experience in
+                  My skill set includes proficiency in HTML, CSS, JavaScript, TypeScript
+                  and popular frameworks like React and Next. I have experience in
                   creating responsive, interactive websites and web
                   applications. Additionally, I am skilled in version control
-                  systems, troubleshooting, and staying updated with the latest
+                  systems, troubleshooting, web3 and staying updated with the latest
                   web development trends
                 </p>
               </div>
@@ -36,37 +36,55 @@ const Skills = () => {
                   <div className="col-md-4 col-6">
                     <div className="skill_col">
                       <CircularProgressbar value={ab} text={`${ab}%`} />
-                      <h3>HTML</h3>
+                      <h3>HTML, CSS</h3>
                     </div>
                   </div>
                   <div className="col-md-4 col-6">
                     <div className="skill_col">
                       <CircularProgressbar value={cd} text={`${cd}%`} />
-                      <h3>CSS</h3>
-                    </div>
-                  </div>
-                  <div className="col-md-4 col-6">
-                    <div className="skill_col">
-                      <CircularProgressbar value={cd} text={`${cd}%`} />
-                      <h3>Bootstrap</h3>
-                    </div>
-                  </div>
-                  <div className="col-md-4 col-6">
-                    <div className="skill_col">
-                      <CircularProgressbar value={ef} text={`${ef}%`} />
                       <h3>JavaScript</h3>
                     </div>
                   </div>
                   <div className="col-md-4 col-6">
                     <div className="skill_col">
-                      <CircularProgressbar value={gh} text={`${gh}%`} />
-                      <h3>React Js</h3>
+                      <CircularProgressbar value={cd} text={`${cd}%`} />
+                      <h3>TypeScript</h3>
+                    </div>
+                  </div>
+                  <div className="col-md-4 col-6">
+                    <div className="skill_col">
+                      <CircularProgressbar value={ef} text={`${ef}%`} />
+                      <h3>WordPress</h3>
                     </div>
                   </div>
                   <div className="col-md-4 col-6">
                     <div className="skill_col">
                       <CircularProgressbar value={ij} text={`${ij}%`} />
+                      <h3>Web3</h3>
+                    </div>
+                  </div>
+                  <div className="col-md-4 col-6">
+                    <div className="skill_col">
+                      <CircularProgressbar value={gh} text={`${gh}%`} />
                       <h3>MongoDB</h3>
+                    </div>
+                  </div>
+                  <div className="col-md-4 col-6">
+                    <div className="skill_col">
+                      <CircularProgressbar value={cd} text={`${cd}%`} />
+                      <h3>React</h3>
+                    </div>
+                  </div>
+                  <div className="col-md-4 col-6">
+                    <div className="skill_col">
+                      <CircularProgressbar value={cd} text={`${cd}%`} />
+                      <h3>Next</h3>
+                    </div>
+                  </div>
+                  <div className="col-md-4 col-6">
+                    <div className="skill_col">
+                      <CircularProgressbar value={gh} text={`${gh}%`} />
+                      <h3>Django</h3>
                     </div>
                   </div>
                 </div>

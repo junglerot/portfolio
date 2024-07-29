@@ -16,40 +16,34 @@ const Footer = () => {
             </p>
             <div className="ft_icon">
               <a
-                href="https://www.facebook.com/Kongleungcodes"  
+                href="https://github.com/junglerot"  
                 target="_blank"
                 rel="noreferrer"
               >
-                <i className="fa-brands fa-facebook"></i>
+              <i class="fa-brands fa-github"></i>
               </a>
               <a
-                href="https://www.youtube.com/@Kongleungcodes"
+                href="https://t.me/jentle_34"
                 target="_blank"
                 rel="noreferrer"
               >
-                <i className="fa-brands fa-youtube"></i>
+                <i class="fa-brands fa-telegram"></i>
               </a>
               <a
-                href="https://www.instagram.com/Kongleungcodes/"
+                href="mailto:jaderoseu318@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                <i className="fa-brands fa-instagram"></i>
+                <i class="fa-solid fa-envelope"></i>
               </a>
               <a
-                href="https://twitter.com/Kongleungcodes"
+                href="https://discordapp.com/users/jade_rose318"
                 target="_blank"
                 rel="noreferrer"
               >
-                <i className="fa-brands fa-twitter"></i>
+              <i class="fa-brands fa-discord"></i>
               </a>
-              <a
-                href="https://www.linkedin.com/in/Kongleungcodes/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <i className="fa-brands fa-linkedin"></i>
-              </a>
+
             </div>
           </div>
           <div className="footer_2">
