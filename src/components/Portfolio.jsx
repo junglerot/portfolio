@@ -314,15 +314,15 @@ const Portfolio = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="col-md-6 col-sm-6 col-12 col-lg-4 my-4">
+              <div className="col-md-6 col-sm-6 col-12 col-lg-4 my-4">
                 <div className="s4_1">
                   <img src={img11} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>Agro Farm Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>Specializing in Asian beauty products</h4>
+                      <p>Completed With Shopify </p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-FurnitureTemp/"
+                        href="https://aesthacosmetics.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -333,7 +333,7 @@ const Portfolio = () => {
                     </div>
                   </div>
                 </div>
-              </div> */}
+              </div>
             </div>
           </div>
           <div className="text-center pt-4 d-flex justify-content-center">
