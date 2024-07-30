@@ -9,7 +9,7 @@ import img6 from "../assets/portfolio/6.png";
 import img7 from "../assets/portfolio/7.png";
 import img8 from "../assets/portfolio/8.png";
 import img9 from "../assets/portfolio/9.png";
-// import img10 from "../assets/portfolio/10.png";
+import img10 from "../assets/portfolio/10.png";
 // import img11 from "../assets/portfolio/11.png";
 import img12 from "../assets/portfolio/12.png";
 import img13 from "../assets/portfolio/13.png";
@@ -293,16 +293,16 @@ const Portfolio = () => {
                 </div>
               </div>
             </div>
-            {/* <div className="row gx-0" id="portfolio_col3">
+            <div className="row gx-0" id="portfolio_col3">
               <div className="col-md-6 col-sm-6 col-12 col-lg-4 my-4">
                 <div className="s4_1">
                   <img src={img10} alt="" className="img-fluid" />
                   <div className="overlay">
                     <div className="text">
-                      <h4>UniLend App Template</h4>
-                      <p>Completed With HTML | CSS and Bootstrap 5 </p>
+                      <h4>Individuals live their best lives</h4>
+                      <p>Completed with Shopify</p>
                       <a
-                        href="https://Kongleungcodes.github.io/B-AppTemp/"
+                        href="https://melissaambrosini.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -314,7 +314,7 @@ const Portfolio = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-md-6 col-sm-6 col-12 col-lg-4 my-4">
+              {/* <div className="col-md-6 col-sm-6 col-12 col-lg-4 my-4">
                 <div className="s4_1">
                   <img src={img11} alt="" className="img-fluid" />
                   <div className="overlay">
@@ -333,8 +333,8 @@ const Portfolio = () => {
                     </div>
                   </div>
                 </div>
-              </div>
-            </div> */}
+              </div> */}
+            </div>
           </div>
           <div className="text-center pt-4 d-flex justify-content-center">
             <button
