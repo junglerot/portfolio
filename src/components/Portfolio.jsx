@@ -10,10 +10,13 @@ import img7 from "../assets/portfolio/7.png";
 import img8 from "../assets/portfolio/8.png";
 import img9 from "../assets/portfolio/9.png";
 import img10 from "../assets/portfolio/10.png";
-// import img11 from "../assets/portfolio/11.png";
+import img11 from "../assets/portfolio/11.png";
 import img12 from "../assets/portfolio/12.png";
 import img13 from "../assets/portfolio/13.png";
 import img14 from "../assets/portfolio/14.png";
+import img15 from "../assets/portfolio/confectionery shop.png";
+// import img14 from "../assets/portfolio/14.png";
+// import img14 from "../assets/portfolio/14.png";
 import icon1 from "../assets/icon1.png";
 import icon2 from "../assets/icon2.png";
 
@@ -323,6 +326,26 @@ const Portfolio = () => {
                       <p>Completed With Shopify </p>
                       <a
                         href="https://aesthacosmetics.com/"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        <button className="btn2 py-2 mt-3 fs-6">
+                          Read More
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 col-sm-6 col-12 col-lg-4 my-4">
+                <div className="s4_1">
+                  <img src={img15} alt="" className="img-fluid" />
+                  <div className="overlay">
+                    <div className="text">
+                      <h4>お菓子を注文するためのオンラインショップ</h4>
+                      <p>WordPressで完成 </p>
+                      <a
+                        href="https://www.s-swiss.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
