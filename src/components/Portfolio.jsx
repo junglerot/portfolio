@@ -157,7 +157,7 @@ const Portfolio = () => {
                   <div className="overlay">
                     <div className="text">
                       <h4>Distance learning opportunities</h4>
-                      <p>Completed With React and Django </p>
+                      <p>Completed With Vue.JS and Django </p>
                       <a
                         href="https://Kongleungcodes.github.io/B-UtopiaTemp/"
                         target="_blank"
